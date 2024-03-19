@@ -1,6 +1,6 @@
 # reduxtoolkit-jest-axios
 
-A sample application with Redux toolkit, Jest and Axios
+A sample application with Redux toolkit, Jest and Axios.
 To quick start with Redux toolkit please go through the official site https://redux-toolkit.js.org/tutorials/quick-start
 
 
